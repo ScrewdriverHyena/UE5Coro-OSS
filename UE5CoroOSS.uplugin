@@ -1,0 +1,45 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UE5CoroOSS",
+	"Description": "OSS functions for UE5Coro.",
+	"Category": "Other",
+	"CreatedBy": "Jon S.",
+	"CreatedByURL": "https://nbs.games",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UE5CoroOSS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystem",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemUtils",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemBlueprints",
+			"Enabled": true
+		},
+		{
+			"Name": "UE5Coro",
+			"Enabled": true
+		},
+		{
+			"Name": "PlayFab",
+			"Enabled": true
+		}
+	]
+}
