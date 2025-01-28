@@ -1,6 +1,6 @@
-# OSSv1 Wrappers For UE5Coro
+# OSSv1 & PlayFab Wrappers For UE5Coro
 ## Purpose
-These are convenience wrappers for using OSSv1 functions inline with UE5Coro.
+These are convenience wrappers for using some OSSv1 and PlayFab API functions inline with UE5Coro.
 
 ## Requirements
 * Unreal Engine 5.4 (May work with 5.5- have not tested)
