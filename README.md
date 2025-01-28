@@ -8,3 +8,6 @@ These are convenience wrappers for using some OSSv1 and PlayFab API functions in
 
 ## Installation
 Clone this repository into a folder within your project's Plugins folder, and compile.
+
+## Disclaimer
+This repository is provided as-is, and likely isn't perfect. It is unlikely that it will be actively maintained beyond a certain scope, so any contributions are absolutely welcome.
